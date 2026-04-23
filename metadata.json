@@ -1,0 +1,6 @@
+{
+  "name": "Neon Crawler",
+  "description": "A sleek Cyberpunk Snake game with neon aesthetics, smooth game loop, and persistent high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
